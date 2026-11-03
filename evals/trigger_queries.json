@@ -1,0 +1,14 @@
+{
+  "skill": "graduate-research-career",
+  "protocol": "每条查询在新会话运行 3 次；记录是否加载本技能及误路由原因。",
+  "queries": [
+    {"query": "博士二年级还没有方向，我接下来半年怎么安排？", "should_trigger": true},
+    {"query": "导师长期不回复，我该怎样推进合作又保护毕业进度？", "should_trigger": true},
+    {"query": "博士后和直接找教职怎么选？", "should_trigger": true},
+    {"query": "论文连续被拒，我应该先改研究还是换投稿策略？", "should_trigger": true},
+    {"query": "共同一作和署名顺序发生争议，应先核对哪些规则？", "should_trigger": true},
+    {"query": "帮我推导这个定理。", "should_trigger": false},
+    {"query": "从零写一份基金申请书。", "should_trigger": false},
+    {"query": "精读这篇关于博士教育的论文。", "should_trigger": false}
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "skill": "graduate-research-career",
+  "version": "2026-11-03-round2",
+  "status": "designed_not_model_tested",
+  "cases": [
+    {
+      "id": "graduate-research-career-r2-1",
+      "label": "毕业要求",
+      "prompt": "我读数学博士，还有两个月到校内提交截止日。现在有一篇论文初稿，没有学校培养文件。能否保证毕业？",
+      "assertions": [
+        "不保证毕业，不套论文数量标准",
+        "区分研究进展与学校正式条件",
+        "给核对培养文件和最小提交范围的行动"
+      ]
+    },
+    {
+      "id": "graduate-research-career-r2-2",
+      "label": "导师支持",
+      "prompt": "研二，导师三个月未反馈论文。我每月发过邮件，想知道下一步怎么办。",
+      "assertions": [
+        "沿用已沟通过的事实，不再只说多主动",
+        "给具体反馈请求及其他学术支持或校内渠道",
+        "不把放养说成普遍规律或全部归责学生"
+      ]
+    },
+    {
+      "id": "graduate-research-career-r2-3",
+      "label": "拒稿",
+      "prompt": "审稿人说方法合理，但没有跨数据集实验。编辑说不适合本刊。是不是该放弃整个课题？",
+      "assertions": [
+        "区分证据缺口与期刊范围",
+        "不直接弃题，不虚构审稿共识",
+        "结合资源给修订或改投条件"
+      ]
+    },
+    {
+      "id": "graduate-research-career-r2-4",
+      "label": "误触发",
+      "prompt": "请解释论文式 (3) 中的梯度项，暂不讨论科研规划。",
+      "assertions": [
+        "不输出生涯路线图",
+        "围绕公式和所需上下文回答"
+      ]
+    }
+  ]
+}

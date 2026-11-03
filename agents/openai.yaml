@@ -1,0 +1,6 @@
+interface:
+  display_name: "研究生涯与学术职业"
+  short_description: "结合阶段、学科与制度约束，给出可执行的科研生涯建议"
+  default_prompt: "使用 $graduate-research-career 分析我的科研生涯困境，区分正式规则与经验建议，并给出下一步行动。"
+policy:
+  allow_implicit_invocation: true
