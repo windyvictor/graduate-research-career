@@ -1,8 +1,21 @@
 # graduate-research-career
 
-English | [中文](README.cn.md)
+English | [中文](README.cn.md) · [Research Skillbox](https://github.com/windyvictor/research-skillbox)
 
 A graduate-school and academic-career guidance skill distilled from research guides, scientist memoirs, mentoring handbooks, and practical training materials.
+
+## Why this skill
+
+Research-career advice becomes useless when it ignores discipline, training stage, graduation deadline, advisor support, institutional rules, and available resources. This skill turns broad advice into a decision that fits the user's actual situation.
+
+### What you get
+
+- A diagnosis of the immediate bottleneck rather than a catalogue of quotations
+- A distinction between formal rules, recurring advice across sources, and one person's experience
+- Options with trade-offs for topics, collaboration, publishing, integrity, postdocs, and jobs
+- One concrete next action, together with a signal that tells the user whether it worked
+
+**Workflow:** locate the stage and constraint → separate rules from experience → compare realistic options → choose a next action → set a review point.
 
 ## Use it for
 

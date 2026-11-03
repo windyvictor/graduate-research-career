@@ -1,6 +1,6 @@
 # graduate-research-career
 
-[English](README.md) | 中文
+[English](README.md) | 中文 · [Research Skillbox 总导航](https://github.com/windyvictor/research-skillbox)
 
 > **硕博士研究生涯与学术职业发展**指导 —— 每条建议都可追溯到具体文献出处。
 
@@ -8,6 +8,15 @@
 
 本技能的价值不在泛泛而谈，而在于：**每条建议都来自具体文献的具体做法，
 可追溯出处，可引用金句。**
+
+## 你会得到什么
+
+- 结合学科、培养阶段、毕业时限、导师支持和资源约束的问题诊断
+- 对正式制度、多来源经验和个人故事的明确区分
+- 选题、合作、发表、署名、诚信、博后与求职方案的真实权衡
+- 一个可以立即执行的下一步，以及判断它是否有效的复查节点
+
+工作路径是：**定位阶段与约束 → 区分制度和经验 → 比较可行选项 → 确定下一步 → 设置复查点**。金句用于照亮问题，不替代制度核对和现实分析。
 
 ## 何时触发
 
@@ -105,3 +114,12 @@ graduate-research-career/
 
 > 「我研一，导师给的题目我不感兴趣，该怎么办？」
 > 「师兄说读博要趁早，但我不确定，帮我梳理一下决策因素。」
+
+## 安装
+
+```bash
+git clone https://github.com/windyvictor/graduate-research-career.git
+ln -s "$PWD/graduate-research-career" ~/.agents/skills/graduate-research-career
+```
+
+其他宿主请把仓库放入对应的 skills 目录。毕业、署名、申诉和聘用要求仍以适用机构的正式文件为准。
